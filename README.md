@@ -1,4 +1,7 @@
 # Sensors
+![image](https://user-images.githubusercontent.com/82050305/207626586-b254efac-9981-4425-abe8-d4fde28b5e6c.png)
+
+
 ```java
 package com.example.sensors_4pp;
 
